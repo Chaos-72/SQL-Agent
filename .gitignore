@@ -1,0 +1,40 @@
+# ---------------------
+# Global ignores
+# ---------------------
+.env
+*.env
+*.db
+*.csv
+*.mp4
+*.pdf
+
+# Example env file allowed
+!example.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database folders
+backend/databases/
+backend/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.next/
+frontend/build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/  

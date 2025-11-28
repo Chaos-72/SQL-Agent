@@ -1,0 +1,19 @@
+.bg-green-btn {
+  background: #38a169;
+  border-radius: 5px;
+  border: none;
+}
+
+.bg-grey {
+  background: #f0f0f0;
+
+}
+
+.border-dashed {
+  border: 1px dashed grey;
+}
+
+.bg-blue {
+  background: #3b2899;
+  background: linear-gradient(209deg, rgba(59, 40, 153, 1) 0%, rgba(110, 93, 179, 1) 37%, rgba(73, 119, 179, 1) 67%, rgba(76, 145, 166, 1) 97%, rgba(75, 151, 179, 1) 100%);
+}
