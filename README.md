@@ -1,3 +1,10 @@
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-brightgreen)](https://python.langchain.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-DB-blue?logo=sqlite)](https://www.sqlite.org/)
+[![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.0_flash-ffca28?logo=googlegemini)](https://ai.google.dev/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)](https://huggingface.co/)
+
 # **SQL Agent**
 
 A full-stack project that allows users to upload CSV/Excel files and query them using natural language in multiple languages.  
